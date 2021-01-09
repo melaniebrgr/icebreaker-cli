@@ -1,0 +1,14 @@
+{
+  "name": "icebreaker-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Melanie Burger (www.melanirbrgr.com)",
+  "license": "MIT",
+  "bin": {
+    "hello": "./bin/index.js"
+  }
+}
