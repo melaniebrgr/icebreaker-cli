@@ -591,6 +591,66 @@
     {
       "question": "Would you rather be an Olympic gold medallist or an astronaut?",
       "type": "would you rather"
+    },
+    {
+      "question": "Do you play any sports?",
+      "type": "highschool"
+    },
+    {
+      "question": "Do you play any instruments?",
+      "type": "highschool"
+    },
+    {
+      "question": "If you could donate a million dollars to any charity, what cause would you choose?",
+      "type": "highschool"
+    },
+    {
+      "question": "Do you have any hidden talents?",
+      "type": "highschool"
+    },
+    {
+      "question": "What was your favourite subject in schools?",
+      "type": "highschool"
+    },
+    {
+      "question": "What was your least favourite subject in school?",
+      "type": "highschool"
+    },
+    {
+      "question": "What are you most excited about this year?",
+      "type": "highschool"
+    },
+    {
+      "question": "What song or album could you listen to on repeat?",
+      "type": "highschool"
+    },
+    {
+      "question": "If you could live in one fictional universe, which one would you choose?",
+      "type": "highschool"
+    },
+    {
+      "question": "Name one cool feature you would add to your dream house.",
+      "type": "highschool"
+    },
+    {
+      "question": "Describe a time you laughed so hard you cried or close to it. What was so funny?",
+      "type": "highschool"
+    },
+    {
+      "question": "If you could have your own TV show, what would it be about?",
+      "type": "highschool"
+    },
+    {
+      "question": "What is one thing you want older generations to know about younger ones today?",
+      "type": "highschool"
+    },
+    {
+      "question": "What is your favorite memory with your best friend? (Your best friend can be an animal!)",
+      "type": "highschool"
+    },
+    {
+      "question": "What is the best dish you can cook?",
+      "type": "highschool"
     }
   ]
 }
