@@ -43,6 +43,62 @@
     {
       "question": "What does your typical work from home uniform look like?",
       "type": "general"
+    },
+    {
+      "question": "How many cups of coffee, tea, or beverage-of-choice do you have each morning?",
+      "type": "general"
+    },
+    {
+      "question": "Are you an early bird or night owl?",
+      "type": "general"
+    },
+    {
+      "question": "What about showers? Do you prefer morning or night?",
+      "type": "general"
+    },
+    {
+      "question": "What’s one thing we could do to improve our virtual meetings?",
+      "type": "general"
+    },
+    {
+      "question": "What’s your favorite flower or plant?",
+      "type": "general"
+    },
+    {
+      "question": "What’s your caffeinated beverage of choice? Coffee? Cola? Tea?",
+      "type": "general"
+    },
+    {
+      "question": "What’s your favorite scent?",
+      "type": "general"
+    },
+    {
+      "question": "What’s the last great TV show or movie you wanted?",
+      "type": "general"
+    },
+    {
+      "question": "Best book you’ve ever read?",
+      "type": "general"
+    },
+    {
+      "question": "Best professional development book you’ve ever read?",
+      "type": "general"
+    },
+    {
+      "question": "If you could learn one new professional skill, what would it be?",
+      "type": "general"
+    },
+    {
+      "question": "If you could learn one new personal skill, what would it be?",
+      "type": "general"
+    },
+    {
+      "question": "What’s your favorite way to get in some exercise?",
+      "type": "general"
+    },
+    {
+      "question": "If you could write a book, what genre would you write it in? Mystery? Thriller? Romance? Historical fiction? Non-fiction?",
+      "type": "general"
     }
   ]
 }
