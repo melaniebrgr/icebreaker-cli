@@ -7,31 +7,27 @@ const { data } = require("./data.json");
 
 const getRandomNumber = (max) => Math.floor(Math.random() * max);
 const getRandomArrayElement = (arr) => arr[getRandomNumber(arr.length - 1)];
-
-const displayRandomQuestion = () => {
-  const question = getRandomArrayElement(data).question;
+const renderText = (text, textIndex) => {
   console.log(`
-    Question ${data.findIndex(el => el.question === question) + 1}`);
-  console.log(boxen( chalk.white.bold(question), {
+    Question ${textIndex}`);
+  console.log(boxen( chalk.white.bold(text), {
       padding: 1,
       margin: 0.25,
       borderStyle: "round",
       borderColor: "green",
       backgroundColor: "#555555"
     }));
+}
+
+const displayRandomQuestion = () => {
+  const question = getRandomArrayElement(data).question;
+  const questionIndex = data.findIndex(el => el.question === question) + 1;
+  renderText(question, questionIndex);
 };
 
 const displayQuestion = (number) => {
   const question = data[number - 1].question;
-    console.log(`
-    Question ${data.findIndex(el => el.question === question) + 1}`);
-  console.log(boxen( chalk.white.bold(question), {
-      padding: 1,
-      margin: 0.25,
-      borderStyle: "round",
-      borderColor: "green",
-      backgroundColor: "#555555"
-    }));
+  renderText(question, number);
 }
 
 const args = yargs
