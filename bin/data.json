@@ -5,7 +5,7 @@
       "type": "general"
     },
     {
-      "question": "What’s the worst part about working virtually for you? The best?",
+      "question": "What’s the worst part about working virtually? The best?",
       "type": "general"
     },
     {
@@ -65,7 +65,7 @@
       "type": "general"
     },
     {
-      "question": "Coffee or tea?",
+      "question": "What is your Starbucks order?",
       "type": "general"
     },
     {
@@ -102,6 +102,90 @@
     },
     {
       "question": "What is one article of clothing that someone could wear that would make you instantly befriend them?",
+      "type": "funny"
+    },
+    {
+      "question": "The zombie apocalypse is coming, who do you want on your team?",
+      "type": "funny"
+    },
+    {
+      "question": "What is your most used emoji?",
+      "type": "funny"
+    },
+    {
+      "question": "What was the worst clothes style?",
+      "type": "funny"
+    },
+    {
+      "question": "What was the worst haircut?",
+      "type": "funny"
+    },
+    {
+      "question": "Who was your childhood famous crush?",
+      "type": "funny"
+    },
+    {
+      "question": "If you were a wrestler what would be your entrance theme song?",
+      "type": "funny"
+    },
+    {
+      "question": "Have you ever been told you look like someone famous, who was it?",
+      "type": "funny"
+    },
+    {
+      "question": "If you could bring back any fashion trend what would it be?",
+      "type": "funny"
+    },
+    {
+      "question": "What’s the most embarrassing fashion trend you used to rock?",
+      "type": "funny"
+    },
+    {
+      "question": "What did you name your first car or bike?",
+      "type": "funny"
+    },
+    {
+      "question": "Does your current car or bike have a name? What is it?",
+      "type": "funny"
+    },
+    {
+      "question": "You have your own late night talk show, who do you invite as your first guest?",
+      "type": "funny"
+    },
+    {
+      "question": "If a movie was made of your life what genre would it be, who would play you?",
+      "type": "funny"
+    },
+    {
+      "question": "If you were famous, what would you be famous for?",
+      "type": "funny"
+    },
+    {
+      "question": "You have to sing karaoke, what song do you pick?",
+      "type": "funny"
+    },
+    {
+      "question": "What was your least favorite food as a child? Do you still hate it or do you love it now?",
+      "type": "funny"
+    },
+    {
+      "question": "If you had to eat one meal everyday for the rest of your life what would it be?",
+      "type": "funny"
+    },
+    {
+      "question": "If you were left on a deserted island with either your worst enemy or no one, which would you choose? Why?",
+      "type": "funny"
+    },
+    {
+      "question": "If aliens landed on earth tomorrow and offered to take you home with them, would you go?",
+      "type": "funny"
+    },
+    {
+      "question": "60s, 70s, 80s, 90s, 00s: Which decade do you love the most and why?",
+      "type": "funny"
+    },
+    {
+      "question": "What’s your favorite sandwich and why?",
       "type": "funny"
     }
   ]
