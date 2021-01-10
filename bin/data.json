@@ -651,6 +651,62 @@
     {
       "question": "What is the best dish you can cook?",
       "type": "highschool"
+    },
+    {
+      "question": "What was your major in college, or what would you choose if you had to?",
+      "type": "college"
+    },
+    {
+      "question": "What would minor would you choose in college for fun?",
+      "type": "college"
+    },
+    {
+      "question": "What most surprised you when you first moved away from home?",
+      "type": "college"
+    },
+    {
+      "question": "If I visited your hometown, what local spots would you suggest?",
+      "type": "college"
+    },
+    {
+      "question": "What is your favorite midnight snack?",
+      "type": "college"
+    },
+    {
+      "question": "What is your best study tip?",
+      "type": "college"
+    },
+    {
+      "question": "What is the strangest habit you have?",
+      "type": "college"
+    },
+    {
+      "question": "What is the most amazing story about your family?",
+      "type": "college"
+    },
+    {
+      "question": "What movie do you think everyone should watch?",
+      "type": "college"
+    },
+    {
+      "question": "What is one thing we would never guess about you?",
+      "type": "college"
+    },
+    {
+      "question": "Name an imaginary college class you wish was offered.",
+      "type": "college"
+    },
+    {
+      "question": "What current fact about your life would most impress your five year old self?",
+      "type": "college"
+    },
+    {
+      "question": "You win the lottery, what is the first thing you buy? (You can' invest it!)",
+      "type": "college"
+    },
+    {
+      "question": "Describe the best teacher you have had so far.",
+      "type": "college"
     }
   ]
 }
