@@ -701,12 +701,72 @@
       "type": "college"
     },
     {
-      "question": "You win 1 milion the lottery, you can't invest it, what is the first thing you buy?",
+      "question": "You win lottery, you can't invest it, what is the first thing you buy?",
       "type": "college"
     },
     {
       "question": "Describe the best teacher you have had so far.",
       "type": "college"
+    },
+    {
+      "question": "If you could have any animal for a pet, what would it be?",
+      "type": "kids"
+    },
+    {
+      "question": "If your pet could talk, what do you think it would say?",
+      "type": "kids"
+    },
+    {
+      "question": "Would you rather explore outer space or the bottom of the ocean?",
+      "type": "kids"
+    },
+    {
+      "question": "Would you rather visit a volcano or a rainforest?",
+      "type": "kids"
+    },
+    {
+      "question": "If you could only eat one dessert for the rest of your life, what would it be?",
+      "type": "kids"
+    },
+    {
+      "question": "If you could choose any name besides your name, what would you choose?",
+      "type": "kids"
+    },
+    {
+      "question": "If you had a million dollars, what would you buy first?",
+      "type": "kids"
+    },
+    {
+      "question": "Who is your favorite Disney character?",
+      "type": "kids"
+    },
+    {
+      "question": "If you could switch lives with anyone for a day, who would it be?",
+      "type": "kids"
+    },
+    {
+      "question": "What is your favorite color?",
+      "type": "kids"
+    },
+    {
+      "question": "Which cartoon character do you wish was real?",
+      "type": "kids"
+    },
+    {
+      "question": "If you could have any superpower, what would it be?",
+      "type": "kids"
+    },
+    {
+      "question": "What is your best idea for a new invention?",
+      "type": "kids"
+    },
+    {
+      "question": "If you were invisible for a day, what would you do?",
+      "type": "kids"
+    },
+    {
+      "question": "What is your favorite ice cream flavor and ice cream topping?",
+      "type": "kids"
     }
   ]
 }
