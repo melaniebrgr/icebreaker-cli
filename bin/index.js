@@ -26,6 +26,7 @@ const displayRandomQuestion = () => {
 };
 
 const displayQuestion = (number) => {
+  if (number > data.length - 1) return console.log(`Number must be between 0 and ${data.length - 1}`);
   const question = data[number - 1].question;
   renderText(question, number);
 }
