@@ -439,6 +439,110 @@
     {
       "question": "What fruit or vegetable would you most want to be?",
       "type": "wierd"
+    },
+    {
+      "question": "If you could hang out with any cartoon character, who would you choose and why?",
+      "type": "if you could"
+    },
+    {
+      "question": "If you could live anywhere in the world for a year, where would it be?",
+      "type": "if you could"
+    },
+    {
+      "question": "If you could commit any crime and get away with it what would you choose and why?",
+      "type": "if you could"
+    },
+    {
+      "question": "If you could choose any person from history to be your imaginary friend, who would it be and why?",
+      "type": "if you could"
+    },
+    {
+      "question": "If you could see one movie again for the first time, what would it be and why?",
+      "type": "if you could"
+    },
+    {
+      "question": "If you could bring back any fashion trend what would it be?",
+      "type": "if you could"
+    },
+    {
+      "question": "If you could live in any country, where would you live?",
+      "type": "if you could"
+    },
+    {
+      "question": "If you could choose any two famous people to have dinner with who would they be?",
+      "type": "if you could"
+    },
+    {
+      "question": "If you could be any animal in the world, what animal would you choose to be?",
+      "type": "if you could"
+    },
+    {
+      "question": "If you could do anything in the world as your career, what would you do?",
+      "type": "if you could"
+    },
+    {
+      "question": "If you could be any supernatural creature, what would you be and why?",
+      "type": "if you could"
+    },
+    {
+      "question": "If you could change places with anyone in the world, who would it be and why?",
+      "type": "if you could"
+    },
+    {
+      "question": "If you could rename yourself, what name would you pick?",
+      "type": "if you could"
+    },
+    {
+      "question": "If you could have someone follow you around all the time, like a personal assistant, what would you have them do?",
+      "type": "if you could"
+    },
+    {
+      "question": "If you could follow someone around all the time, who would it be?",
+      "type": "if you could"
+    },
+    {
+      "question": "If you could instantly become an expert in something, what would it be?",
+      "type": "if you could"
+    },
+    {
+      "question": "If you could be guaranteed one thing in life (besides money), what would it be?",
+      "type": "if you could"
+    },
+    {
+      "question": "If you had to teach a class on one thing, what would you teach?",
+      "type": "if you could"
+    },
+    {
+      "question": "If you could magically become fluent in any language, what would it be?",
+      "type": "if you could"
+    },
+    {
+      "question": "If you could be immortal, what age would you choose to stop aging at and why?",
+      "type": "if you could"
+    },
+    {
+      "question": "If you could be on a reality TV show, which one would you choose and why?",
+      "type": "if you could"
+    },
+    {
+      "question": "If you could choose any person from history to be your imaginary friend, who would it be and why?",
+      "type": "if you could"
+    },
+    {
+      "question": "If you could eliminate one thing from your daily routine, what would it be and why?",
+      "type": "if you could"
+    },
+    {
+      "question": "If you could go to Mars, would you? Why or why not?",
+      "type": "if you could"
+    },
+    {
+      "question": "If you could have the power of teleportation right now, where would you go and why?",
+      "type": "if you could"
+    },
+    {
+      "question": "If you could write a book that was guaranteed to be a best seller, what would you write?",
+      "type": "if you could"
     }
   ]
 }
