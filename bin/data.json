@@ -1,11 +1,11 @@
 {
   "data": [
     {
-      "question": "Do you love working from home or would you rather be in the office? Is there a balance of both that you like best?",
+      "question": "Would you rather work from home or from the office?",
       "type": "general"
     },
     {
-      "question": "What’s the hardest part about working virtually for you? The easiest?",
+      "question": "What’s the worst part about working virtually for you? The best?",
       "type": "general"
     },
     {
@@ -13,11 +13,11 @@
       "type": "general"
     },
     {
-      "question": "Show us your office space!",
+      "question": "Show us your office space! 🙂",
       "type": "general"
     },
     {
-      "question": "Where do you work most frequently from at home? Your office? Your kitchen table? The backyard? Your bed?",
+      "question": "Where do you work most frequently from at home? Your basement? Your bed?",
       "type": "general"
     },
     {
@@ -33,7 +33,7 @@
       "type": "general"
     },
     {
-      "question": "What’s your number one tip for combating distractions when working from home?",
+      "question": "What’s your number one tip for not getting distracted while working from home?",
       "type": "general"
     },
     {
@@ -45,7 +45,7 @@
       "type": "general"
     },
     {
-      "question": "How many cups of coffee, tea, or beverage-of-choice do you have each morning?",
+      "question": "How many cups of coffee do you have every day?",
       "type": "general"
     },
     {
@@ -53,27 +53,27 @@
       "type": "general"
     },
     {
-      "question": "What about showers? Do you prefer morning or night?",
+      "question": "What is your most productive time of the day?",
       "type": "general"
     },
     {
-      "question": "What’s one thing we could do to improve our virtual meetings?",
+      "question": "What’s one thing that would improve all virtual meetings?",
       "type": "general"
     },
     {
-      "question": "What’s your favorite flower or plant?",
+      "question": "What’s your favorite plant?",
       "type": "general"
     },
     {
-      "question": "What’s your caffeinated beverage of choice? Coffee? Cola? Tea?",
+      "question": "Coffee or tea?",
       "type": "general"
     },
     {
-      "question": "What’s your favorite scent?",
+      "question": "What’s your favorite fragrance?",
       "type": "general"
     },
     {
-      "question": "What’s the last great TV show or movie you wanted?",
+      "question": "What’s the last movie you saw in theater?",
       "type": "general"
     },
     {
@@ -97,8 +97,12 @@
       "type": "general"
     },
     {
-      "question": "If you could write a book, what genre would you write it in? Mystery? Thriller? Romance? Historical fiction? Non-fiction?",
+      "question": "If you could write a book, what genre would you it be? Mystery? Thriller? Romance? Historical fiction? Non-fiction?",
       "type": "general"
+    },
+    {
+      "question": "What is one article of clothing that someone could wear that would make you instantly befriend them?",
+      "type": "funny"
     }
   ]
 }
