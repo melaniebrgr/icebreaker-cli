@@ -6,6 +6,6 @@ npm install -g .
 
 ## Run the cli
 ```
-$ icebreaker
-$ icebreaker -n 1
+$ icebreak
+$ icebreak -n 1
 ```
