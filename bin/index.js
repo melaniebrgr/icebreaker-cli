@@ -2,20 +2,41 @@
 
 const chalk = require("chalk");
 const boxen = require("boxen");
+const yargs = require("yargs");
 const { data } = require("./data.json");
 
 const getRandomNumber = (max) => Math.floor(Math.random() * max);
 const getRandomArrayElement = (arr) => arr[getRandomNumber(arr.length - 1)];
 
-const question = getRandomArrayElement(data).question;
+const displayRandomQuestion = () => {
+  const question = getRandomArrayElement(data).question;
+  console.log(`
+    Question ${data.findIndex(el => el.question === question) + 1}`);
+  console.log(boxen( chalk.white.bold(question), {
+      padding: 1,
+      margin: 0.25,
+      borderStyle: "round",
+      borderColor: "green",
+      backgroundColor: "#555555"
+    }));
+};
 
-console.log(`
-  Question ${data.findIndex(el => el.question === question) + 1}`);
+const displayQuestion = (number) => {
+  const question = data[number - 1].question;
+    console.log(`
+    Question ${data.findIndex(el => el.question === question) + 1}`);
+  console.log(boxen( chalk.white.bold(question), {
+      padding: 1,
+      margin: 0.25,
+      borderStyle: "round",
+      borderColor: "green",
+      backgroundColor: "#555555"
+    }));
+}
 
-console.log(boxen( chalk.white.bold(question), {
-    padding: 1,
-    margin: 0.25,
-    borderStyle: "round",
-    borderColor: "green",
-    backgroundColor: "#555555"
-   }));
+const args = yargs
+ .usage("Usage: -n <number>")
+ .option("n", { alias: "number", describe: "Your question number", type: "string", demandOption: false })
+ .argv;
+
+args.number ? displayQuestion(args.number) : displayRandomQuestion();
