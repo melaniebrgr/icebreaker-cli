@@ -1,7 +1,8 @@
 # icebreaker-cli
-Get a random or specific icebreak question. Questions still being added.
+Get a random or specific icebreaker question. (Questions still being added.)
 
 ## Installation
+clone the repo
 npm install -g .
 
 ## Run the cli
