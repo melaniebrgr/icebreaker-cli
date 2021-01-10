@@ -10,5 +10,9 @@
   "license": "MIT",
   "bin": {
     "hello": "./bin/index.js"
+  },
+  "dependencies": {
+    "boxen": "^5.0.0",
+    "chalk": "^4.1.0"
   }
 }
