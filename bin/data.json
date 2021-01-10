@@ -543,6 +543,54 @@
     {
       "question": "If you could write a book that was guaranteed to be a best seller, what would you write?",
       "type": "if you could"
+    },
+    {
+      "question": "Would you rather live in the ocean or on the moon?",
+      "type": "would you rather"
+    },
+    {
+      "question": "Would you rather meet your travel back in time to meet your ancestors or to the future to meet your descendants?",
+      "type": "would you rather"
+    },
+    {
+      "question": "Would you rather lose all of your money or all of your pictures?",
+      "type": "would you rather"
+    },
+    {
+      "question": "Would you rather have invisibility or flight?",
+      "type": "would you rather"
+    },
+    {
+      "question": "Would you rather live where it only snows or the temperature never falls below 35 degrees celcius (100 farenheit)?",
+      "type": "would you rather"
+    },
+    {
+      "question": "Would you rather always be slightly late or super early?",
+      "type": "would you rather"
+    },
+    {
+      "question": "Would you rather give up your smartphone or your computer?",
+      "type": "would you rather"
+    },
+    {
+      "question": "Would you rather live without heat and AC or live without social media?",
+      "type": "would you rather"
+    },
+    {
+      "question": "Would you rather be the funniest or smartest person in the room?",
+      "type": "would you rather"
+    },
+    {
+      "question": "Would you rather be able to run at 100 miles per hour or fly at 10 miles per hour?",
+      "type": "would you rather"
+    },
+    {
+      "question": "Would you rather be a superhero or the world’s best chef?",
+      "type": "would you rather"
+    },
+    {
+      "question": "Would you rather be an Olympic gold medallist or an astronaut?",
+      "type": "would you rather"
     }
   ]
 }
