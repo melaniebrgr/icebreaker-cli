@@ -10,7 +10,7 @@ const getRandomArrayElement = (arr) => arr[getRandomNumber(arr.length - 1)];
 const question = getRandomArrayElement(data).question;
 
 console.log(`
-  Question no. ${data.findIndex(el => el.question === question) + 1}`);
+  Question ${data.findIndex(el => el.question === question) + 1}`);
 
 console.log(boxen( chalk.white.bold(question), {
     padding: 1,
