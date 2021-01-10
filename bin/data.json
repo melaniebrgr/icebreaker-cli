@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "question": "Do you love working from home or would you rather be in the office? Is there a balance of both that you like best?",
+      "type": "general"
+    },
+    {
+      "question": "What’s the hardest part about working virtually for you? The easiest?",
+      "type": "general"
+    },
+    {
+      "question": "Do you have a dedicated office space at home?",
+      "type": "general"
+    },
+    {
+      "question": "Show us your office space!",
+      "type": "general"
+    },
+    {
+      "question": "Where do you work most frequently from at home? Your office? Your kitchen table? The backyard? Your bed?",
+      "type": "general"
+    },
+    {
+      "question": "Be honest, how often do you work from bed?",
+      "type": "general"
+    },
+    {
+      "question": "What did you eat for breakfast?",
+      "type": "general"
+    },
+    {
+      "question": "What does your morning routine look like when working from home?",
+      "type": "general"
+    },
+    {
+      "question": "What’s your number one tip for combating distractions when working from home?",
+      "type": "general"
+    },
+    {
+      "question": "How do you stay productive and motivated working virtually?",
+      "type": "general"
+    },
+    {
+      "question": "What does your typical work from home uniform look like?",
+      "type": "general"
+    }
+  ]
+}
